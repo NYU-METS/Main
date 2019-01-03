@@ -1,4 +1,2 @@
 # main
-Welcome!
-
-This page is for PAM 19
+Reserve the url for upload
