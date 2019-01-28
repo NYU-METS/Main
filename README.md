@@ -18,12 +18,12 @@ This NYU Metropolitan Mobile Bandwidth Trace dataset (NYU-METS) is made availabl
 We collected long bandwidth traces in New York City Metropolitan area. These traces are collected in Bus, Subway, Ferry and Rail Road etc. 
 
 Bus: Bus B57, B62 and NYU Campus Bus Route A;
-![](https://github.com/NYU-METS/Main/blob/master/Sample_Traces/b57.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)
-
 Subway: Subway 7 Train, Subway Q Train and Subway D Train;   
-![](https://github.com/NYU-METS/Main/blob/master/Sample_Traces/7train.jpg)
 Ferry: Ferry between South Ferry and Staten Island;   
 Long Island Rail Road: Long Island Rail Road between Woodside Station and Little Neck. 
+
+For example,
+![](https://github.com/NYU-METS/Main/blob/master/Sample_Traces/Scenarios.jpg)
 
 For each experiment, we connect a LTE mobile phone to a remote server in our lab at NYU. 
 We run iPerf and record TCP throughput every 1,000 millisecond for a long and successive time in the same scenario. All the bandwidth samples are logged on the server side. 
