@@ -22,12 +22,12 @@ Bus B57 (Between IKEA Brooklyn and Flushing Ave & 61 st Street)
 B62 (Between MetroTech and Queensboro Plaza)  
 NYU Campus Bus Route A (Between Downtown Brooklyn and NYU Bookstore)  
 
-Subway: 
+Subway:   
 Subway 7 Train (Between Queensboro Plaza and Flushing Main Street)  
 Subway Q Train (Between Prospect Park and Coney Island)  
 Subway D Train (Between Prospect Ave and Stillwell Avenue)   
 
-Ferry:   
+Ferry:  
 Ferry (Between South Ferry and Staten Island)  
 
 Car:
