@@ -23,7 +23,7 @@ Ferry: Ferry between South Ferry and Staten Island;
 Long Island Rail Road: Long Island Rail Road between Woodside Station and Little Neck. 
 
 For each experiment, we connect a LTE mobile phone to a remote server in our lab at NYU. 
-We run iPerf and record TCP throughput every 1,000 millisecond for a long successive time. All the bandwidth samples are logged on the server side. 
+We run iPerf and record TCP throughput every 1,000 millisecond for a long and successive time in the same scenario. All the bandwidth samples are logged on the server side. 
 
 We are continuing this measurement campaign and keep adding new traces to our NYU-METS Dataset for future research.
 
