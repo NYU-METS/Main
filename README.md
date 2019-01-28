@@ -28,9 +28,14 @@ Subway Q Train (Between Prospect Park and Coney Island)
 Subway D Train (Between Prospect Ave and Stillwell Avenue)   
 
 Ferry:   
-Ferry (Between South Ferry and Staten Island)        
+Ferry (Between South Ferry and Staten Island)  
+
+Car:
+Car (Between Downtown Brooklyn and LGA)
+
 Long Island Rail Road:  
 Long Island Rail Road (Between Woodside Station and Little Neck). 
+
 
 For example,
 ![](https://github.com/NYU-METS/Main/blob/master/Sample_Traces/Scenarios.jpg)
