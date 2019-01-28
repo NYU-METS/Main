@@ -17,10 +17,10 @@ This NYU Metropolitan Mobile Bandwidth Trace dataset (NYU-METS) is made availabl
 
 We collected long bandwidth traces in New York City Metropolitan area. These traces are collected in Bus, Subway, Ferry and Rail Road etc. 
 
-Bus: Bus B57, B62 and NYU Campus Bus Route A;  
-Subway: Subway 7 Train, Subway Q Train and Subway D Train;   
-Ferry: Ferry between South Ferry and Staten Island;   
-Long Island Rail Road: Long Island Rail Road between Woodside Station and Little Neck. 
+Bus: Bus B57 (Between IKEA Brooklyn and Flushing Ave & 61 st Street), B62 (Between MetroTech and Queensboro Plaza) and NYU Campus Bus Route A (Between Downtown Brooklyn and NYU Bookstore);  
+Subway: Subway 7 Train (Between Queensboro Plaza and Flushing Main Street), Subway Q Train (Between Prospect Park and Coney Island ) and Subway D Train (Between Prospect Ave and Stillwell Avenue);   
+Ferry: Ferry (Between South Ferry and Staten Island);   
+Long Island Rail Road: Long Island Rail Road (Between Woodside Station and Little Neck). 
 
 For example,
 ![](https://github.com/NYU-METS/Main/blob/master/Sample_Traces/Scenarios.jpg)
