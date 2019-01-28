@@ -7,6 +7,7 @@ Our dataset is FREE for public. But we kindly ask that should you mention any of
 *Lifan Mei, Runchen Hu, Houwei Cao, Yong Liu, Zifa Han, Feng Li & Jin Li. (2019, March). Realtime Mobile Bandwidth Prediction using LSTM Neural Networks. In International Conference on Passive and Active Network Measurement. Springer, Cham.*
 
 
+
 We collected long bandwidth traces in New York City Metropolitan area Bus, Subway, Ferry, Long Island Rail Road.
 It includes Bus B57, B62 and NYU Campus Bus Route A; Subway 7 Train, Subway Q Train Subway D Train; Ferry between South Ferry and Staten Island; Long Island Rail Road between Woodside and Little Neck; 
 
