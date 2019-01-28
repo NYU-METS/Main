@@ -30,7 +30,7 @@ Subway D Train (Between Prospect Ave and Stillwell Avenue)
 Ferry:  
 Ferry (Between South Ferry and Staten Island)  
 
-Car:
+Car:   
 Car (Between Downtown Brooklyn and LGA)
 
 Long Island Rail Road:  
