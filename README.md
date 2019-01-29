@@ -1,7 +1,7 @@
 # NYU Metropolitan Mobile Bandwidth Trace 
 
 ## Summary
-NYU Metropolitan Mobile Bandwidth Trace, a.k.a. NYU-METS, is a LTE mobile bandwidth dataset that were measured in New York City metropolitian area.
+NYU Metropolitan Mobile Bandwidth Trace, a.k.a. NYU-METS, is a LTE mobile bandwidth dataset that were measured in New York City metropolitian area. It covers several transportation scenarios like Subway, Bus, Ferry etc.
 
 
 ## Access
