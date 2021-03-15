@@ -8,6 +8,10 @@ NYU Metropolitan Mobile Bandwidth Trace, a.k.a. NYU-METS, is a LTE mobile bandwi
 Our dataset is FREE for public. But we kindly ask that should you mention any of our datasets that you would reference the following paper: 
 
 *Lifan Mei, Runchen Hu, Houwei Cao, Yong Liu, Zifa Han, Feng Li & Jin Li. (2019, March). Realtime Mobile Bandwidth Prediction using LSTM Neural Networks. In International Conference on Passive and Active Network Measurement. Springer, Cham.*  
+
+Or
+
+*Mei, Lifan, Runchen Hu, Houwei Cao, Yong Liu, Zifan Han, Feng Li, and Jin Li. "Realtime mobile bandwidth prediction using LSTM neural network and Bayesian fusion." Computer Networks 182 (2020): 107515.*
   
 ## License:
 This NYU Metropolitan Mobile Bandwidth Trace dataset (NYU-METS) is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
