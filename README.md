@@ -51,10 +51,13 @@ We are continuing this measurement campaign and keep adding new traces to our NY
 
 
 
-## Acknowledgement
-Thanks for their contribution for the measurement: 
-Lifan Mei, Tongyu Zong, Jingrui Yang, Haoyu Deng and Siquan Wang.
-
 
 ## For Multivariate Traces in 2020, please enter /Multivariate_Dataset
+https://github.com/NYU-METS/Main/tree/master/Multivariate_Dataset
+
+
+## Acknowledgement
+Thanks for their contribution for the measurement: 
+Lifan Mei, Tongyu Zong, Jingrui Yang, Haoyu Deng, Siquan Wang and Jinrui Gou.
+
 The site is still in construction.
